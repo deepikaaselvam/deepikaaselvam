@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👩🏻‍💻About Me
 - 👋 Hi, I’m Deepika <br>
-IT Undergrad
+-  IT Undergrad
 - 👀 I’m interested in coding<br>
 - 🌱 Learning DSA and Java<br>
 - 💞️ I’m looking to collaborate on .

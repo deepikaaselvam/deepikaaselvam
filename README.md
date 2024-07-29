@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 👋 Hi, I’m Deepika 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Deepika <br>
+- 👀 I’m interested in coding<br>
+- 🌱 Learning DSA and Java<br>
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me deepikaselvam.16@gmail.com
 

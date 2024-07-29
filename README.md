@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepikaaselvam
+- 👋 Hi, I’m Deepika 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on .

@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me deepikaselvam.16@gmail.com
 
 
+![LeetCode Stats](https://leetcode.card.workers.dev/Deepika_Selvam?theme=dark&font=baloo&extension=null)

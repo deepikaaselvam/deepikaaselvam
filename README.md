@@ -13,7 +13,10 @@ You can click the Preview link to take a look at your changes.
 - 📚 I'm Currently Learning DSA <br>
 - 👯 I’m looking to collaborate on Java Projects.
 - 🤔   I am Looking for Placements in FAANG
-- 📫 How to reach me deepikaselvam.16@gmail.com
+- 📫 How to reach me
+- [[<img src="https://img.shields.io/badge/linkedin
+   :alt: Static Badge/>](https://www.linkedin.com/in/deepika-s-35a61b258/)
+- deepikaselvam.16@gmail.com
 
 **Leetcode Stats Card**
 <br>

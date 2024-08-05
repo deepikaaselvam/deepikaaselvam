@@ -8,10 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 👩🏻‍💻About Me
 - 👋 Hi, I’m Deepika <br>
--  IT Undergrad
-- 👀 I’m interested in coding<br>
-- 🌱 Learning DSA and Java<br>
-- 💞️ I’m looking to collaborate on .
+- 👩🏻‍💻 IT Undergrad
+- ⏳ I’m interested in coding<br>
+- 📚 I'm Currently Learning DSA <br>
+- 👯 I’m looking to collaborate on Java Projects.
+- 🤔   I am Looking for Placements in FAANG
 - 📫 How to reach me deepikaselvam.16@gmail.com
 
 **Leetcode Stats Card**

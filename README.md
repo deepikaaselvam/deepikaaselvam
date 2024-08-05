@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## Hi there 👋 It's me Deepika
 
 - 👩🏻‍💻 IT Undergrad
-- ⏳ I’m interested in coding<br>
+- ⏳ I’m Passionate about Coding and love working on new projects<br>
 - 📚 I'm Currently Learning DSA <br>
 - 👯 I’m looking to collaborate on Java Projects.
 - 🤔   I am Looking for Placements in FAANG

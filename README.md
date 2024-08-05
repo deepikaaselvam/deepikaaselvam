@@ -2,10 +2,8 @@
 deepikaaselvam/deepikaaselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 👩🏻‍💻Hi there 👋 It's me Deepika
+## Hi there 👋 It's me Deepika
 
-
-- 👋 Hi, I’m Deepika <br>
 - 👩🏻‍💻 IT Undergrad
 - ⏳ I’m interested in coding<br>
 - 📚 I'm Currently Learning DSA <br>

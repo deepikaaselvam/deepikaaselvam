@@ -22,4 +22,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![LeetCode Stats](https://leetcode.card.workers.dev/Deepika_Selvam?theme=dark&font=baloo&extension=null)
 <br>
-![Github Stats](![deepikaaselvam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikaaselvam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
+
+![deepikaaselvam's Stats](https://github-readme-stats.vercel.app/api?username=deepikaaselvam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![deepikaaselvam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepikaaselvam&theme=vue-dark&hide_border=true)(https://github-readme-(![deepikaaselvam's Top Languages]stats.vercel.app/api/top-langs/?username=deepikaaselvam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))

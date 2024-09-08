@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 
-
+### Tools Used
+![Visual Studio Code]
+![IntellIJ IDE](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
 
 **Leetcode Stats Card**
 <br>

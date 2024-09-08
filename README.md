@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 
 ### I code in
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-![Javascript](https://icons8.com/icon/108784/javascript)
+![Javascript](https://img.icons8.com/fluency/48/javascript.png)
 )![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 
 ### Tools Used
-![Visual Studio Code](https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000)
-![IntellIJ IDE](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
+![Visual Studio Code](https://img.icons8.com/color/48/visual-studio--v2.png)
+![IntellIJ IDE](https://img.icons8.com/color/48/intellij-idea.png)
 
 **Leetcode Stats Card**
 <br>

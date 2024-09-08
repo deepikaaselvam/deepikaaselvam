@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 
 ### Tools Used
-![Visual Studio Code]
+![Visual Studio Code](https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000)
 ![IntellIJ IDE](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
 
 **Leetcode Stats Card**

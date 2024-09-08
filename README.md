@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### I code in
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
 ![Javascript](https://img.icons8.com/fluency/48/javascript.png)
-)![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 
 ### Tools Used

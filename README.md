@@ -30,8 +30,7 @@ You can click the Preview link to take a look at your changes.
 **Leetcode Badge**
 <br>
 <br>
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?color=success&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Deepika_Selvam)
-<img src="https://github.com/user-attachments/assets/26f2a567-738e-46c9-9a24-99a3a861e193" width="150" alt="LeetCode 50 Days Badge"/>
+<img src="https://github.com/user-attachments/assets/26f2a567-738e-46c9-9a24-99a3a861e193" width="100" alt="LeetCode 50 Days Badge"/>
 
 
 

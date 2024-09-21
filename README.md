@@ -28,7 +28,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 **Leetcode Badge**
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?color=success&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/<https://leetcode.com/u/Deepika_Selvam/>)
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?color=success&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Deepika_Selvam)
+
 
 **Github Stats Cards**
 <br>

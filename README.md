@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Javascript](https://img.icons8.com/fluency/48/javascript.png)
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![MySQL](https://img.icons8.com/ios/50/sql.png)
 
 ### Tools Used
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio--v2.png)

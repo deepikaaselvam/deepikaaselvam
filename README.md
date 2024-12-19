@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
  ![MySQL](https://img.icons8.com/ios/50/sql.png)
+ ![Git](https://img.icons8.com/color/48/git.png)
+ ![Github](https://img.icons8.com/ios-glyphs/30/github.png)
 
 ### Tools Used
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio--v2.png)

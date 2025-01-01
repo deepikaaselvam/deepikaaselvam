@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <img src="https://github.com/user-attachments/assets/26f2a567-738e-46c9-9a24-99a3a861e193" width="80" alt="LeetCode 50 Days Badge"/>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="80" alt="LeetCode 100 Days Badge"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="80" alt="LeetCode 100 Days Badge"/>
 
 
 

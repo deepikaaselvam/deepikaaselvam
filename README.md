@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 **Leetcode Stats Card**
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika_Selvam?theme=light&font=Plus%20Jakarta%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika_Selvam?theme=unicorn&font=Pacifico)
 <br>
 <br>
 **Leetcode Badge**

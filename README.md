@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there 👋 It's me Deepika
 
-- 👩🏻‍💻 IT Undergrad
+- 👩🏻‍💻 Intern at Optisol Business Solutions | IT Undergrad
 - ⏳ I’m Passionate about Coding and love working on new projects<br>
 - 📚 I'm Currently Learning DSA <br>
 - 👯 I’m looking to collaborate on Java Projects.
